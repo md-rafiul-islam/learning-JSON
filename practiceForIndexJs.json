@@ -1,0 +1,42 @@
+{
+    "Info":[
+        {
+            "name": "Rafiul",
+            "middleName" : null,
+            "age" : 24,
+            "cgpa" : 3,
+            "isRegistered" : true,
+            "language" : ["bangla", "english", "hindi"],
+    
+            "friends":[
+                {
+                "name": "Rafiul",
+                "age" : 24
+                },
+                {
+                "name": "Rafiul",
+                "age" : 24
+                }
+            ]
+        },
+        {
+            "name": "Rafiul",
+            "middleName" : null,
+            "age" : 24,
+            "cgpa" : 3,
+            "isRegistered" : true,
+            "language" : ["bangla", "english", "hindi"],
+    
+            "friends":[
+                {
+                "name": "Rafiul",
+                "age" : 24
+                },
+                {
+                "name": "Rafiul",
+                "age" : 24
+                }
+            ]
+        }
+    ]
+}
