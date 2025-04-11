@@ -1,0 +1,24 @@
+JSON doesn't support commenting like "//" in javascript
+
+JSON file is inside {}
+
+basic structure: 
+
+
+{
+    "name": "Rafiul",
+    "age": 24,
+    "language": ["bangla", "english"],   // json array
+
+    "friends":[                          // json object
+        {
+            "name": "Rasel",
+            "age": 24
+        },
+        {
+            "name": "Sojib",
+            "age": 25
+        }
+    ]
+}
+
