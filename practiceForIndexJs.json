@@ -2,7 +2,6 @@
     "Info":[
         {
             "name": "Rafiul",
-            "middleName" : null,
             "age" : 24,
             "cgpa" : 3,
             "isRegistered" : true,
@@ -21,7 +20,6 @@
         },
         {
             "name": "Rafiul",
-            "middleName" : null,
             "age" : 24,
             "cgpa" : 3,
             "isRegistered" : true,
