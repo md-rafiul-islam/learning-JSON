@@ -1,3 +1,6 @@
+key: JSON structure, access, modify, delete
+
+
 JSON doesn't support commenting like "//" in javascript
 
 JSON file is inside {}
@@ -22,3 +25,14 @@ basic structure:
     ]
 }
 
+
+
+
+//accessing JSON
+//create an object for JSON file and initilize JSON file with the help of requir function
+// exe:
+
+const x = requir(./fileName.json);
+x.name // accessing name
+x.language[0] // accessing array
+x.friends[0].name // accessing object
