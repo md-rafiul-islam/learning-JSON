@@ -1,5 +1,5 @@
 //how to see local storage via inspect in the website: inspect->application->localstorage
-// key: setItem,getItem, removeItem
+// key: setItem,getItem, removeItem, localStorage.clear();
 
 
 
@@ -28,5 +28,8 @@ console.log(x);
 
 //removeItem
 localStorage.removeItem("ID");
+console.log(localStorage.getItem("ID"));  //it will return null
+
+// localStorage.clear();
 
 
