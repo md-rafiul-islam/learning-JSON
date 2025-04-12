@@ -1,6 +1,6 @@
 //how to see local storage via inspect in the website: inspect->application->localstorage
 // key: setItem,getItem, removeItem, localStorage.clear();
-
+// localStorage and sessionStorage functionality are same but their is some diff. google it
 
 
 
