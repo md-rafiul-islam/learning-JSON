@@ -1,5 +1,6 @@
 key: JSON structure, access, modify, delete
 key: jsonpathfinder website
+key: javascript to JSON, JSON to javascript conversion
 
 
 JSON doesn't support commenting like "//" in javascript
@@ -37,3 +38,13 @@ const x = requir(./fileName.json);
 x.name // accessing name
 x.language[0] // accessing array
 x.friends[0].name // accessing object
+
+
+
+
+
+javascript to json:
+JSON.stringify(javascript object)
+
+JSON to javascript:
+JSON.parse(json data)
